@@ -116,3 +116,5 @@
 ## Fluent Python
 ## Probabilistic Graph Models, Principles and Techniques, Coursera Specialization
 ## Cython A Guide for Programmers
+---
+## Fordítóprogramok és formális nyelvek - Király Roland
