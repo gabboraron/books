@@ -118,3 +118,4 @@
 ## Cython A Guide for Programmers
 ---
 ## Fordítóprogramok és formális nyelvek - Király Roland
+## Language-Parametric Methods for Developing Interactive Programming Systems
